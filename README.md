@@ -1,6 +1,6 @@
-### Hi there, I'm Víctor López
+### Hi there, welcome to my GitHub profile
 
-👨🏽‍💻 I'm currently diving deep into the 📈 **Data Analytics** and **Data Science** world. 
+👨🏽‍💻 I'm Víctor López and I'm currently diving deep into the 📈 **Data Analytics** and **Data Science** world. 
 
 🗂 Here you can find the **main projects** I have worked, mainly with Python, and a description of them:
 * 🎧 [Song Recommender](https://github.com/VictorLJay/Song-Recommender): Using Web Scraping and Spotify API, it clusters songs based on their song features.
