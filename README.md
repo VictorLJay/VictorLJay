@@ -11,7 +11,7 @@ If you have any suggestion, you can reach me on my 📥 [LinkedIn](https://www.l
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=VictorLJay)](https://github.com/anuraghazra/github-readme-stats)
 
-https://www.codewars.com/users/VictorLJay/badges/small
+![CodeWars Status](https://www.codewars.com/users/VictorLJay/badges/small)
 
 
 <!--
