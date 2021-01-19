@@ -3,7 +3,11 @@
 👨🏽‍💻 I'm currently diving deep into the 📈 **Data Analytics** and **Data Science** world. 
 
 🗂 Here you can find the **main projects** I have worked, mainly with Python, and a description of them:
-* 🎞 [Song Recommender](https://github.com/VictorLJay/Song-Recommender): Test
+* 🎧 [Song Recommender](https://github.com/VictorLJay/Song-Recommender): Test
+* 🎞 [Netflix Analysis](https://github.com/VictorLJay/Netflix-Analysis): Tst
+* 💰 [Customer Churn Predictor](https://github.com/VictorLJay/Customer-Churn-Predictor): Tst
+
+If you have any suggestion, you can reach me on my 📥 [LinkedIn](https://www.linkedin.com/in/victorlopezj/) profile.
 
 <!--
 **VictorLJay/VictorLJay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
