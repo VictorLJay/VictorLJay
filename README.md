@@ -3,9 +3,9 @@
 👨🏽‍💻 I'm Víctor López and I'm currently diving deep into the 📈 **Data Analytics** and **Data Science** world. 
 
 🗂 Here you can find the **main projects** I have worked, mainly with Python, and a description of them:
-* 🎧 [Song Recommender](https://github.com/VictorLJay/Song-Recommender): Using Web Scraping and Spotify API, it clusters songs based on their song features.
-* 🎞 [Netflix Content Analysis - Hypothesis Testing](https://github.com/VictorLJay/Netflix-Analysis): Analysis of Netflix Content, using hypothesis testing to prove the initial questions before starting the project.
-* 💰 [Customer Churn Predictor](https://github.com/VictorLJay/Customer-Churn-Predictor): Bank Churn predictor, able to detect 90% of the churned customers on the test model. Furthermore, used Deep Learning with Keras.
+* 🎧 [Song Recommender](https://github.com/VictorLJay/Song-Recommender): Using Web Scraping and Spotify API, developed a clustering song recommender based on their song features.
+* 🎞 [Netflix Content Analysis - Hypothesis Testing](https://github.com/VictorLJay/Netflix-Analysis): Analysis and Hypothesis testing of Netflix Content.
+* 💰 [Customer Churn Predictor](https://github.com/VictorLJay/Customer-Churn-Predictor): Supervised & Deep Learning Models for customer churn prediction, able to detect 90% of the churned customers on the test model
 
 If you have any suggestion, you can reach me on my 📥 [LinkedIn](https://www.linkedin.com/in/victorlopezj/) profile.
 
